@@ -166,7 +166,7 @@ const Pokemetrix: React.FC = () => {
 
       <nav className="pmx-nav">
         <span className="pmx-nav-brand">
-          Poké<span className="pmx-nav-cyan">Métrix</span>
+          Poke<span className="pmx-nav-cyan">Métrix</span>
         </span>
         <span className="pmx-nav-sub">Fan-made Pokédex · PokéAPI</span>
       </nav>
@@ -174,7 +174,7 @@ const Pokemetrix: React.FC = () => {
       <div className="pmx-container">
 
         <header className="pmx-header">
-          <h1 className="pmx-title">Poké<span>Métrix</span></h1>
+          <h1 className="pmx-title">Poke<span>Métrix</span></h1>
           <div className="pmx-search-wrap">
             <i className="bi bi-search pmx-search-icon" />
             <input
@@ -396,7 +396,7 @@ const Pokemetrix: React.FC = () => {
       </div>
 
       <footer className="pmx-footer">
-        <p>PokéMétrix · Fan-made project by Javier García</p>
+        <p>PokeMétrix · Fan-made project by Javier García</p>
         <p className="pmx-footer-legal">Pokémon and all related names are trademarks of Nintendo / Game Freak. This project is not affiliated with or endorsed by The Pokémon Company.</p>
       </footer>
     </div>
