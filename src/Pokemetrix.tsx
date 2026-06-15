@@ -396,7 +396,7 @@ const Pokemetrix: React.FC = () => {
       </div>
 
       <footer className="pmx-footer">
-        <p>PokéMétrix · Fan-made project by <a href="https://javier-treynetcodes.github.io" target="_blank" rel="noopener noreferrer">TreyNet Codes Studios</a></p>
+        <p>PokéMétrix · Fan-made project by Javier García</p>
         <p className="pmx-footer-legal">Pokémon and all related names are trademarks of Nintendo / Game Freak. This project is not affiliated with or endorsed by The Pokémon Company.</p>
       </footer>
     </div>
