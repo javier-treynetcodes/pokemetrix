@@ -166,7 +166,7 @@ const Pokemetrix: React.FC = () => {
 
       <nav className="pmx-nav">
         <span className="pmx-nav-brand">
-          Poké<span className="pmx-nav-cyan">métrix</span>
+          Poké<span className="pmx-nav-cyan">Métrix</span>
         </span>
         <span className="pmx-nav-sub">Fan-made Pokédex · PokéAPI</span>
       </nav>
@@ -174,7 +174,7 @@ const Pokemetrix: React.FC = () => {
       <div className="pmx-container">
 
         <header className="pmx-header">
-          <h1 className="pmx-title">Poké<span>métrix</span></h1>
+          <h1 className="pmx-title">Poké<span>Métrix</span></h1>
           <div className="pmx-search-wrap">
             <i className="bi bi-search pmx-search-icon" />
             <input
